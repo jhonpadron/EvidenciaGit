@@ -5,7 +5,6 @@ Git Clone
 Git branch
 Git checkout
 Git status
-Git add
 Git commit
 Git push
 Git pull
